@@ -3,8 +3,12 @@ p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
     body {
-      background-color: #b5eef8; 
+      background-color: #cad5fa; 
     }
     h1 {
       color: rgb(7, 7, 97); 
+    }
+     }
+    h2 {
+      color: rgb(7, 7, 160); 
     }
