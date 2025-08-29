@@ -2,4 +2,9 @@
 p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
+    body {
+      background-color: #b5eef8; 
+    }
+    h1 {
+      color: rgb(7, 7, 97); 
+    }
